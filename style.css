@@ -1,5 +1,6 @@
 .box1{
     background: red;
+    height: 30px;
     width: 30px;
 }
 
@@ -14,6 +15,5 @@
 .container{
     display: flex;
     border: 2px solid black;
-    justify-items: space;
     height: 100px;
 }
