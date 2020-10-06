@@ -1,0 +1,19 @@
+.box1{
+    background: red;
+    width: 30px;
+}
+
+.box2{background: royalblue;height: 30px;width: 30px;}
+.box3{background: salmon;height: 30px;width: 30px;}
+.box4{background: seagreen;height: 30px;width: 30px;}
+.box5{background: yellow;height: 30px;width: 30px;}
+.box6{background: tomato;height: 30px;width: 30px;}
+.box7{background: aqua;height: 30px;width: 30px;}
+.box8{background: black;height: 30px;width: 30px;}
+
+.container{
+    display: flex;
+    border: 2px solid black;
+    justify-items: space;
+    height: 100px;
+}
